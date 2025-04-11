@@ -10,7 +10,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
   <img src="gif5.webp" alt="GIF 2" width="33%" height="250px"/>
 </div>
 
-## A few things about me 🤖:
+## 🤖 A few things about me :
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
 - Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and hopefully not break a few codebases before becoming a pro).  
 - Communication is my secret sauce — I love writing clean code *and* clear documentation (yes, I exist).  
