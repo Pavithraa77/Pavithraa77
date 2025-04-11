@@ -10,21 +10,13 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 ---
 
 ## 📊 GitHub Stats:
-
-## 📊 GitHub Stats:
-
-## 📊 GitHub Stats:
-
-<!-- Side-by-side: GitHub Stats + Contribution Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />  
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pavithraa77&theme=dark&hide_border=false" width="48%" />
-
-<br/>
-
-<!-- Side-by-side: Top Langs + GitHub Contribution Tracker -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />  
-<img src="https://github-contribution-stats.vercel.app/api/?username=Pavithraa77&theme=dark" width="48%" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri-tah&theme=dracula&hide_border=true">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amri-tah&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amri-tah&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150">
+</div>
 
 ---
 
