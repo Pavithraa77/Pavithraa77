@@ -1,41 +1,37 @@
-Absolutely! Here's a more **natural, human-written version** of your GitHub profile — with fewer emojis, crisp bullet points, and just a touch of personality and humor:
-
----
-
 ## About Me
 
-Hey there! I'm Pavithraa — a Computer Science undergrad who’s genuinely curious about how things work and even more curious about how to make them work better. I'm passionate about building end-to-end systems, whether that's on the web or closer to the metal.
+Hey there! I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better. I love building end-to-end systems, whether that's on the web or closer to the metal.
 
 ### A few things about me:
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 2am.  
 - Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and maybe break a few things before fixing them better).  
 - Communication is my secret sauce — I love writing clean code *and* clear documentation (yes, I exist).  
-- Always up for learning something new or working on a cool side project — ping me if you have one!
+- Always up for something new or working on a cool side project — ping me if you have one!
 
 ---
 
-## Tech Stack Highlights
+Tech Stack Highlights
+☁️ Cloud Platforms
+AWS · Azure · Google Cloud · Firebase · Heroku
 
-### ☁️ Cloud Platforms  
-AWS · Azure · Google Cloud · Firebase · Heroku  
+🧠 Machine Learning & Data
+TensorFlow · PyTorch · scikit-learn · OpenCV · Pandas · NumPy · Keras · NLTK · Streamlit · TIG Stack (Telegraf · InfluxDB · Grafana)
 
-### 🧠 Machine Learning & Data  
-TensorFlow · PyTorch · scikit-learn · OpenCV · Pandas · NumPy · Keras
+💻 Full Stack Development
+React · Next.js · Vue · Node.js · Express · Django · .NET
 
-### 💻 Full Stack Development  
-React · Next.js · Vue · Node.js · Express · Django · .NET  
+🛠️ Backend & APIs
+REST APIs · GraphQL · SOAP APIs · OAuth 2.0 · PostgreSQL · MongoDB · Firebase Auth · SQL
 
-### 🛠️ Backend & APIs  
-REST APIs · GraphQL · PostgreSQL · MongoDB · Firebase Auth  
+📦 Embedded & Low-Level
+Embedded C · Keil5 · AssemblyScript · Prolog · Haskell · Scala
 
-### 📦 Embedded & Low-Level  
-Embedded C · Keil5 · AssemblyScript · nVIDIA CUDA
-
-### 🔧 Dev Tools & CI/CD  
+🔧 Dev Tools & CI/CD
 Git · Docker · Jenkins · VS Code · Bash · Windows Terminal
 
-### 🎨 Design & UI  
-Figma · Adobe Creative Suite · Canva
+🎨 Design & UI
+Figma · Adobe Creative Suite · Canva · Bootstrap · Tailwind CSS
+
 
 ---
 
