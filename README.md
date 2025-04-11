@@ -18,7 +18,8 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 ## 👾 Interests 
 - Full Stack Development  
-- Embedded Systems & IoT  
+- Embedded Systems & IoT
+- Machine Learning 
 - Product Thinking & Clean Architecture  
 - Making tech more human-friendly
 
