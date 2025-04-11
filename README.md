@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="8ef8b118b2bd121bd71a50bbb8ac6a9f.gif" alt="goofy me it is" width="750px">
+  <img src="8ef8b118b2bd121bd71a50bbb8ac6a9f.gif" alt="goofy me it is" width="750px" height= 15%>
 </div>
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better. I love building end-to-end systems, whether that's on the web or closer to the metal.
 
