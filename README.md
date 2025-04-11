@@ -13,9 +13,18 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%"/>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=Pavithraa77&theme=dark&hide_border=false" width="45%"/>
+## 📊 GitHub Stats:
+
+<!-- Side-by-side: GitHub Stats + Contribution Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />  
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pavithraa77&theme=dark&hide_border=false" width="48%" />
+
+<br/>
+
+<!-- Side-by-side: Top Langs + GitHub Contribution Tracker -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />  
+<img src="https://github-contribution-stats.vercel.app/api/?username=Pavithraa77&theme=dark" width="48%" />
+
 
 ---
 
