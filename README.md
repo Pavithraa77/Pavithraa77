@@ -6,13 +6,12 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
   <img src="gif4.gif" alt="GIF 2" width="300px"/>
 </div>
 
-# A few things about me 🤖:
+## A few things about me 🤖:
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
 - Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and hopefully not break a few codebases before becoming a pro).  
 - Communication is my secret sauce — I love writing clean code *and* clear documentation (yes, I exist).  
 - Always up for something new or working on a cool side project — ping me if you have one!
 
-# 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithraa77&theme=dark&hide_border=true">
 </div>
@@ -21,13 +20,13 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150">
 </div>
 
-# 👾 Interests 
+## 👾 Interests 
 - Full Stack Development  
 - Embedded Systems & IoT  
 - Product Thinking & Clean Architecture  
 - Making tech more human-friendly
 
-# Tech Stack Highlights
+## Tech Stack Highlights
 
 ### ☁️ Cloud Platforms  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -57,7 +56,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavithraa.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavithraasasseendran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavithraasasee@gmail.com) 
 
 
