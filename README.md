@@ -1,16 +1,15 @@
+#Hey there👽!
+I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
+
 <div align="center">
-  <img src="gif.gif" alt="goofy me it is" style="width: 300px; height: 150px;">
+  <img src="gif.gif" alt="goofy me it is" style="width: 350px; height: 150px;">
 </div>
 
-I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better. I love building end-to-end systems, whether that's on the web or closer to the metal.
-
 # A few things about me 🤖:
-- I enjoy full-stack development as much as I enjoy debugging embedded code at 2am.  
-- Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and maybe break a few things before fixing them better).  
+- I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
+- Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and hopefully not break a few codebases before becoming a pro).  
 - Communication is my secret sauce — I love writing clean code *and* clear documentation (yes, I exist).  
 - Always up for something new or working on a cool side project — ping me if you have one!
-
----
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -38,17 +37,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 
 ### 🧠 Machine Learning & Data  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-%23edbb00.svg?style=for-the-badge&logo=nltk&logoColor=black)  
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![NLTK](https://img.shields.io/badge/NLTK-%23edbb00.svg?style=for-the-badge&logo=nltk&logoColor=black)  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)
 
 
 ### 💻 Full Stack Development  
