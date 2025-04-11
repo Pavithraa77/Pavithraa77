@@ -1,4 +1,4 @@
-<p style="font-size: 65px; text-align: center;">Hey there 👽!</p>
+<p style="font-size: 165px; text-align: center;">Hey there 👽!</p>
 
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
 
