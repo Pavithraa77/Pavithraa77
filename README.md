@@ -1,12 +1,9 @@
 # Hey there 👽!
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
 
-<div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="gif.gif" alt="GIF 1" width="300px"/>
+<div style="display: flex; overflow-x: auto; gap: 10px;align:centre;">
   <img src="gif2.gif" alt="GIF 2" width="300px"/>
-  <img src="gif3.gif" alt="GIF 3" width="300px"/>
   <img src="gif4.gif" alt="GIF 2" width="300px"/>
-  <img src="gif1.gif" alt="GIF 3" width="300px"/>
 </div>
 
 # A few things about me 🤖:
