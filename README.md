@@ -9,10 +9,11 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pavithraa77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pavithraa77&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>  
+<img src="https://nirzak-streak-stats.vercel.app/?user=Pavithraa77&theme=dark&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&hide_border_
 
 ---
 
