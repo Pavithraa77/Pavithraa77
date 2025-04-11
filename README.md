@@ -1,5 +1,3 @@
-## About Me
-
 Hey there! I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better. I love building end-to-end systems, whether that's on the web or closer to the metal.
 
 ### A few things about me:
@@ -10,7 +8,15 @@ Hey there! I'm Pavithraa — a Computer Science undergrad who’s curious about 
 
 ---
 
-Tech Stack Highlights
+## Interests  
+- Full Stack Development  
+- Embedded Systems & IoT  
+- Product Thinking & Clean Architecture  
+- Making tech more human-friendly
+
+---
+
+## Tech Stack Highlights
 ☁️ Cloud Platforms
 AWS · Azure · Google Cloud · Firebase · Heroku
 
@@ -32,20 +38,13 @@ Git · Docker · Jenkins · VS Code · Bash · Windows Terminal
 🎨 Design & UI
 Figma · Adobe Creative Suite · Canva · Bootstrap · Tailwind CSS
 
-
----
-
-## Interests  
-- Full Stack Development  
-- Embedded Systems & IoT  
-- Product Thinking & Clean Architecture  
-- Making tech more human-friendly
-
 ---
 
 > Currently learning, always building.  
 > Reach out if you want to build cool things together or if you're just as excited about blinking LEDs as you are about deploying web apps.
 
----
+## Contact Me  
+📧 pavithraasasee@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/pavithraasasseendran)  
 
-Let me know if you'd like a README version for your portfolio or a short blurb for LinkedIn too!
+
