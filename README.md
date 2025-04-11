@@ -1,4 +1,6 @@
-Hey there 🐶!
+<div align="center">
+  <img src="[https://github.com/amri-tah/amri-tah/assets/111682039/2de3c99c-4228-4413-b5c4-c2abd9cf2ae4](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-there-hi-gif-hellothere-hi-garfield-discover-share-gifs--24136547993680604%2F&psig=AOvVaw1P8_cKt174yCO6ve3rn7-7&ust=1744444490058000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC4_KbAz4wDFQAAAAAdAAAAABAE)" alt="goofy me it is" width="750px">
+</div>
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better. I love building end-to-end systems, whether that's on the web or closer to the metal.
 
 ### A few things about me 🤖:
