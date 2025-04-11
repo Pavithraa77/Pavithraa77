@@ -12,7 +12,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 ## 🤖 A few things about me :
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
-- Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems (and hopefully not break a few codebases💀 before becoming a pro).  
+- Currently looking for a **Summer 2025 internship** to get hands-on with real-world problems(& hopefully not break a few codebases💀 before becoming a pro).  
 - Communication is my secret sauce — I love writing clean code *and* clear documentation (yes, I exist).  
 - Always up for something new or working on a cool side project — ping me if you have one!
 
