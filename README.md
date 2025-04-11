@@ -6,8 +6,8 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 
 <div style="display: flex; overflow-x: auto; gap: 10px;align:centre;">
   <img src="gif2.gif" alt="GIF 2" width="33%" height="250px"/>
-  <img src="gif4.gif" alt="GIF 2" width="33%" height="250px"/>
-  <img src="gif5.webp" alt="GIF 2" width="33%" height="250px"/>
+  <img src="gif6.gif" alt="GIF 2" width="33%" height="250px"/>
+  <img src="gif7.gif" alt="GIF 2" width="33%" height="250px"/>
 </div>
 
 ## 🤖 A few things about me :
