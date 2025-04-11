@@ -1,4 +1,5 @@
-# Hey there👽!
+<h1>Hey there 👽!</h1>
+
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
 
 <div align="center">
