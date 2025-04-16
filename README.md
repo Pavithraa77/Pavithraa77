@@ -4,11 +4,6 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 > Currently learning, always building.  
 > Reach out if you want to build cool things together or if you're just as excited about bulding cool shit as you are about food or games.
 
-<div style="display: flex; overflow-x: auto; gap: 10px;align:centre;">
-  <img src="gif2.gif" alt="GIF 2" width="33%" height="250px"/>
-  <img src="gif6.gif" alt="GIF 2" width="33%" height="250px"/>
-  <img src="gif7.gif" alt="GIF 2" width="33%" height="250px"/>
-</div>
 
 ## 🤖 A few things about me :
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
