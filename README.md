@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="one.gif" width="100%" alt="Banner GIF" height="10%">
+  <img src="one.gif" width="100%" alt="Banner GIF" height="200px">
 </p>
+
 # Hey there 👽!
 
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
