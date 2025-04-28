@@ -1,19 +1,17 @@
 <p align="center">
-  <img src="one.gif" width="100%" alt="Banner GIF" style="border-radius: 10px;"/>
+  <img src="one.gif" width="100%" alt="Banner GIF" height="250px"/>
 </p>
 
-<h1 align="center">Hey there 👽!</h1>
-
+<h1 align="center" style="font-size: 3em; font-weight: bold; color: #58a6ff; text-shadow: 2px 2px #000000;">
+  Hey there 👽!
+</h1>
 <p align="center">
 I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort (hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
 </p>
-
-<blockquote align="center">
+<blockquote>
 Currently learning, always building.<br/>
 Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 🚀
 </blockquote>
-
----
 
 ## 🤖 A Few Things About Me
 
