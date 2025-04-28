@@ -15,10 +15,10 @@ Reach out if you want to build cool things together — or if you're just as exc
 
 ## 🤖 A Few Things About Me
 
-- 🖥️ I enjoy full-stack development as much as I enjoy debugging embedded code at 3AM.
-- 🌟 Actively seeking a **Summer 2025 internship** — ready to break (and fix!) codebases to learn faster.
-- ✍️ Strong believer in writing **clean code** _and_ **clear documentation** (yes, we exist).
-- 🔥 Always excited to pick up new things or collaborate on cool side projects!
+- I enjoy full-stack development as much as I enjoy debugging embedded code at 3AM.
+- Actively seeking a **Summer 2025 internship** — ready to break (and fix!) codebases to learn faster.
+- Strong believer in writing **clean code** _and_ **clear documentation** (yes, we exist).
+- Always excited to pick up new things or collaborate on cool side projects!
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithraa77&theme=dark&hide_border=true" alt="GitHub Streak"/>
@@ -42,7 +42,9 @@ Reach out if you want to build cool things together — or if you're just as exc
 ---
 
 ## 🛠️ Tech Stack Highlights
-
+<p>
+Click to view
+</p>
 <details>
 <summary><b>☁️ Cloud Platforms</b></summary>
 <br/>
