@@ -1,13 +1,12 @@
+<p align="center">
+  <img src="one.gif" width="100%" alt="Banner GIF" height="10%">
+</p>
 # Hey there 👽!
 
 I'm Pavithraa — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort(hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
 
 > Currently learning, always building.  
 > Reach out if you want to build cool things together or if you're just as excited about bulding cool shit as you are about food or games.
-
-<p align="center">
-  <img src="one.gif" width="100%" alt="Banner GIF" height="10%">
-</p>
 
 ## 🤖 A few things about me :
 
