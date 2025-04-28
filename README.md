@@ -4,6 +4,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 > Currently learning, always building.  
 > Reach out if you want to build cool things together or if you're just as excited about bulding cool shit as you are about food or games.
 
+![Hehe me!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3AyY&psig=AOvVaw3OaWdX2Z8u4qTG7USGplOT&ust=1745944557514000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjn6r6U-4wDFQAAAAAdAAAAABAE)
 
 ## 🤖 A few things about me :
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3am.  
