@@ -6,7 +6,7 @@ I'm Pavithraa — a Computer Science undergrad who’s curious about how things 
 > Reach out if you want to build cool things together or if you're just as excited about bulding cool shit as you are about food or games.
 
 <p align="center">
-  <img src="one.gif" width="100%" alt="Banner GIF">
+  <img src="one.gif" width="100%" alt="Banner GIF" height="10%">
 </p>
 
 ## 🤖 A few things about me :
