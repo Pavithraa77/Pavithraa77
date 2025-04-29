@@ -12,7 +12,7 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 Currently learning, always building.<br/>
 Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 🚀
 </blockquote>
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
 ## 🤖 A Few Things About Me
 
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3AM.
@@ -141,7 +141,10 @@ Click to view
 
 </details>
 
----
+<p>
+  Visitors count:
+</p>
+<img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
 
 ## 🌐 Connect With Me
 
