@@ -10,7 +10,7 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 </p>
 <blockquote>
 Currently learning, always building.<br/>
-Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 🚀
+Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 
 </blockquote>
 
 ## 🤖 A Few Things About Me
