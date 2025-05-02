@@ -6,7 +6,7 @@
   Hey there 👽!
 </h1>
 <p>
-I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort (hehe lazy perfectionism✌️). I love building end-to-end systems, whether that's on the web or closer to the metal.
+I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort. I love building end-to-end systems, whether that's on the web or closer to the metal.
 </p>
 <blockquote>
 Currently learning, always building.<br/>
