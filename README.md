@@ -31,7 +31,7 @@ Reach out if you want to build cool things together — or if you're just as exc
 
 ---
 
-## 👾 Interests
+## Interests
 
 - Full Stack Development
 - Embedded Systems & IoT
