@@ -58,7 +58,7 @@ Click to view
 </details>
 
 <details>
-<summary><b>🧠 Machine Learning & Data</b></summary>
+<summary><b> Machine Learning & Data</b></summary>
 <br/>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
