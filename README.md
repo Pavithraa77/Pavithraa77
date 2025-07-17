@@ -145,7 +145,7 @@ Click to view
 </p>
 <img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/pavithraa.7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
