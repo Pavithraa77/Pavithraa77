@@ -13,7 +13,7 @@ Currently learning, always building.<br/>
 Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 
 </blockquote>
 
-## 🤖 A Few Things About Me
+## A Few Things About Me
 
 - I enjoy full-stack development as much as I enjoy debugging embedded code at 3AM.
 - Strong believer in writing **clean code** _and_ **clear documentation** (yes, we exist).
