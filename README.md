@@ -141,7 +141,7 @@ Click to view
 </details>
 
 <p>
-  Visitors count:
+  Visitors count
 </p>
 <img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
 
