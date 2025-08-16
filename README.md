@@ -15,8 +15,6 @@ Currently learning, always building.<br/>
 Reach out if you want to build cool things together — or if you're just as excited about building cool stuff as you are about food or games. 
 </blockquote>
 
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://instagram.com/pavithraa.7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
@@ -24,8 +22,6 @@ Reach out if you want to build cool things together — or if you're just as exc
   <a href="mailto:pavithraasasee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Pavithraa77"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
----
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -37,14 +33,11 @@ Reach out if you want to build cool things together — or if you're just as exc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
----
-
 ## ⚡ A Few Things About Me  
 - I enjoy full-stack development as much as debugging embedded code at 3AM.  
 - Strong believer in writing **clean code** _and_ **clear documentation**.  
 - Always excited to pick up new things or collaborate on cool side projects!  
 
----
 
 ## 🚀 Interests  
 - Full Stack Development  
@@ -53,7 +46,6 @@ Reach out if you want to build cool things together — or if you're just as exc
 - Product Thinking & Clean Architecture  
 - Making Tech More Human-Friendly  
 
----
 
 ## 🧰 Tech Stack Highlights  
 
@@ -119,12 +111,6 @@ To make this section more **visible and organized**, I grouped skills into **cat
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </details>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
-</p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
