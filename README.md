@@ -3,7 +3,7 @@
 </p>
 
 <h1 style="font-size: 3em; font-weight: bold; color: #58a6ff; text-shadow: 2px 2px #000000;">
-  Hey there 👽!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> !
 </h1>
  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
