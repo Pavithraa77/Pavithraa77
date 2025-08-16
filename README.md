@@ -18,7 +18,7 @@ Reach out if you want to build cool things together — or if you're just as exc
 <p align="left">
 <a href="https://instagram.com/pavithraa.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavithraa.7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pavithraasasseendran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithraasasseendran" height="30" width="40" /></a>
-<a href="mailto:pavithraasasee@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pavithraasasee@gmail.com" height="30" width="40" /></a>
+<a href="mailto:pavithraasaseendran@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/minutemailer.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 
