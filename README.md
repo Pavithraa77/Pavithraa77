@@ -5,21 +5,31 @@
 <h1 style="font-size: 3em; font-weight: bold; color: #58a6ff; text-shadow: 2px 2px #000000;">
   Hey there 👽!
 </h1>
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 <p>
-I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort. I love building end-to-end systems, whether that's on the web or closer to the metal
+I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort. I love building end-to-end systems, whether that's on the web or closer to the metal.
 </p>
 <blockquote>
 Currently learning, always building.<br/>
-Reach out if you want to build cool things together — or if you're just as excited about building cool shit as you are about food or games. 
+Reach out if you want to build cool things together — or if you're just as excited about building cool stuff as you are about food or games. 
 </blockquote>
 
-## A Few Things About Me
+---
 
-- I enjoy full-stack development as much as I enjoy debugging embedded code at 3AM.
-- Strong believer in writing **clean code** _and_ **clear documentation** (yes, we exist).
-- Always excited to pick up new things or collaborate on cool side projects!
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/pavithraa.7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/pavithraasasseendran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pavithraasasee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Pavithraa77"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<div align="center" style="margin-top: 30px;">
+---
+
+## 📊 GitHub Stats  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithraa77&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -30,26 +40,31 @@ Reach out if you want to build cool things together — or if you're just as exc
 
 ---
 
-## Interests
-
-- Full Stack Development
-- Embedded Systems & IoT
-- Machine Learning
-- Product Thinking & Clean Architecture
-- Making Tech More Human-Friendly
+## ⚡ A Few Things About Me  
+- I enjoy full-stack development as much as debugging embedded code at 3AM.  
+- Strong believer in writing **clean code** _and_ **clear documentation**.  
+- Always excited to pick up new things or collaborate on cool side projects!  
 
 ---
 
-## Tech Stack Highlights
-<p>
-Click to view
-</p>
+## 🚀 Interests  
+- Full Stack Development  
+- Embedded Systems & IoT  
+- Machine Learning  
+- Product Thinking & Clean Architecture  
+- Making Tech More Human-Friendly  
+
+---
+
+## 🧰 Tech Stack Highlights  
+
+To make this section more **visible and organized**, I grouped skills into **categories with collapsible details**:
+
 <details>
 <summary><b>☁️ Cloud Platforms</b></summary>
-<br/>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -57,8 +72,7 @@ Click to view
 </details>
 
 <details>
-<summary><b> Machine Learning & Data</b></summary>
-<br/>
+<summary><b>🤖 Machine Learning & Data</b></summary>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -76,7 +90,6 @@ Click to view
 
 <details>
 <summary><b>💻 Full Stack Development</b></summary>
-<br/>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -88,27 +101,9 @@ Click to view
 </details>
 
 <details>
-<summary><b>📦 Backend & APIs</b></summary>
-<br/>
-
-![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-3B3B98.svg?style=for-the-badge)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-2C7BB6?style=for-the-badge&logo=oauth&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details>
 <summary><b>📡 Embedded & Low-Level</b></summary>
-<br/>
 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Keil5](https://img.shields.io/badge/Keil5-0078D7?style=for-the-badge&logo=arm&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-B22222?style=for-the-badge)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
@@ -117,38 +112,21 @@ Click to view
 
 <details>
 <summary><b>⚙️ Dev Tools & CI/CD</b></summary>
-<br/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </details>
 
-<details>
-<summary><b>🎨 Design & UI</b></summary>
-<br/>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<p>
-  Visitors count
-</p>
-<img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
-
-## Connect With Me
+---
 
 <p align="center">
-  <a href="https://instagram.com/pavithraa.7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/pavithraasasseendran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pavithraasasee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://profile-counter.glitch.me/Pavithraa77/count.svg" />
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
