@@ -5,8 +5,7 @@
 <h1 style="font-size: 3em; font-weight: bold; color: #58a6ff; text-shadow: 2px 2px #000000;">
   Hey there 👽!
 </h1>
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 <p>
 I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how things work and even more curious about how to make them work better with minimal effort. I love building end-to-end systems, whether that's on the web or closer to the metal.
