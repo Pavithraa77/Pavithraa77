@@ -14,14 +14,13 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 Currently learning, always building.<br/>
 Reach out if you want to build cool things together — or if you're just as excited about building cool stuff as you are about food or games. 
 </blockquote>
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://instagram.com/pavithraa.7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/pavithraasasseendran/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:pavithraasasee@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Pavithraa77"><img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" alt="GitHub"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pavithraa.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavithraa.7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavithraasasseendran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithraasasseendran" height="30" width="40" /></a>
+<a href="mailto:pavithraasasee@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pavithraasasee@gmail.com" height="30" width="40" /></a>
 </p>
+
 
 ## 📊 GitHub Stats  
 <div align="center">
