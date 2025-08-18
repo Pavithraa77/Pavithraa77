@@ -48,7 +48,6 @@ Reach out if you want to build cool things together — or if you're just as exc
 
 ## 🧰 Tech Stack Highlights  
 
-To make this section more **visible and organized**, I grouped skills into **categories with collapsible details**:
 
 <details>
 <summary><b>☁️ Cloud Platforms</b></summary>
