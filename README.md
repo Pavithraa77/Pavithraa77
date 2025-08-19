@@ -13,12 +13,11 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 
 
 ## ⚡ A Few Things About Me  
-- Aspiring to build a long, impactful career in tech, while staying relevant, adaptable, and maybe even a little fun along the way.
+- Aspiring to build a long impactful career in tech while staying relevant, adaptable, and maybe even a little fun along the way.
 - I enjoy full-stack development just as much as I enjoy debugging embedded code at 3 AM (yes, coffee was involved).
 - I value clarity in both code and documentation as key to effective collaboration.
-- Always up for learning something new or jumping into cool side projects—if it sounds exciting, count me in.
-- I don’t just write code; I talk it too. Clear communication, explaining ideas confidently, and strong leadership are survival skills in tech (alongside Ctrl+Z).
-- Outside of tech, I’m a food explorer and firm believer that food is the ultimate bug fix.
+- Always up for learning something new or jumping into cool side projects. If it sounds exciting, count me in.
+- I believe clear communication, explaining ideas confidently, and strong leadership are survival skills in tech (alongside Ctrl+Z).
 
 <blockquote>
 Currently learning, always building.<br/>
