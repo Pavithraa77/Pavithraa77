@@ -12,7 +12,7 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 </p>
 
 
-## ⚡ A Few Things About Me  
+## A Few Things About Me  
 - Aspiring to build a long impactful career in tech while staying relevant, adaptable, and maybe even a little fun along the way.
 - I enjoy full-stack development just as much as I enjoy debugging embedded code at 3 AM (yes, coffee was involved).
 - I value clarity in both code and documentation as key to effective collaboration.
@@ -31,7 +31,7 @@ Reach out if you want to build cool things together :)
 </p>
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithraa77&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
@@ -41,19 +41,11 @@ Reach out if you want to build cool things together :)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithraa77&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
-## 🚀 Interests  
-- Full Stack Development  
-- Embedded Systems & IoT  
-- Machine Learning  
-- Product Thinking & Clean Architecture  
-- Making Tech More Human-Friendly  
-
-
-## 🧰 Tech Stack Highlights  
+## Tech Stack Highlights  
 
 
 <details>
-<summary><b>☁️ Cloud Platforms</b></summary>
+<summary><b>Cloud Platforms</b></summary>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -64,7 +56,7 @@ Reach out if you want to build cool things together :)
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning & Data</b></summary>
+<summary><b>Machine Learning & Data</b></summary>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -81,7 +73,7 @@ Reach out if you want to build cool things together :)
 </details>
 
 <details>
-<summary><b>💻 Full Stack Development</b></summary>
+<summary><b>Full Stack Development</b></summary>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -93,7 +85,7 @@ Reach out if you want to build cool things together :)
 </details>
 
 <details>
-<summary><b>📡 Embedded & Low-Level</b></summary>
+<summary><b>Embedded & Low-Level</b></summary>
 
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-B22222?style=for-the-badge)
@@ -103,7 +95,7 @@ Reach out if you want to build cool things together :)
 </details>
 
 <details>
-<summary><b>⚙️ Dev Tools & CI/CD</b></summary>
+<summary><b>Dev Tools & CI/CD</b></summary>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
