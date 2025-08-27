@@ -23,7 +23,7 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 Currently learning, always building.<br/>
 Reach out if you want to build cool things together :) 
 </blockquote>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://instagram.com/pavithraa.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavithraa.7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pavithraasasseendran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithraasasseendran" height="30" width="40" /></a>
