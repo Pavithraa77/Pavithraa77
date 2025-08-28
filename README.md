@@ -12,7 +12,7 @@ I'm <b>Pavithraa</b> — a Computer Science undergrad who’s curious about how 
 </p>
 
 
-## A Few Things About Me  
+## A Few Things About Me ☺️
 - Aspiring to build a long impactful career in tech while staying relevant, adaptable, and maybe even a little fun along the way.
 - I enjoy full-stack development just as much as I enjoy debugging embedded code at 3 AM (yes, coffee was involved).
 - I value clarity in both code and documentation as key to effective collaboration.
